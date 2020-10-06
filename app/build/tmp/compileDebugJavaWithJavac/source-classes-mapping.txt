@@ -1,0 +1,28 @@
+github/hongbeomi/randomcat/DataBindingTriggerClass.java
+ github.hongbeomi.randomcat.DataBindingTriggerClass
+github/hongbeomi/randomcat/databinding/ActivityMainBindingImpl.java
+ github.hongbeomi.randomcat.databinding.ActivityMainBindingImpl
+github/hongbeomi/randomcat/databinding/ActivityMainBinding.java
+ github.hongbeomi.randomcat.databinding.ActivityMainBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+github/hongbeomi/randomcat/databinding/ActivityDetailBinding.java
+ github.hongbeomi.randomcat.databinding.ActivityDetailBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+github/hongbeomi/randomcat/databinding/ActivityDetailBindingImpl.java
+ github.hongbeomi.randomcat.databinding.ActivityDetailBindingImpl
+github/hongbeomi/randomcat/databinding/ItemMainBindingImpl.java
+ github.hongbeomi.randomcat.databinding.ItemMainBindingImpl
+github/hongbeomi/randomcat/DataBinderMapperImpl.java
+ github.hongbeomi.randomcat.DataBinderMapperImpl
+ github.hongbeomi.randomcat.DataBinderMapperImpl$InnerBrLookup
+ github.hongbeomi.randomcat.DataBinderMapperImpl$InnerLayoutIdLookup
+github/hongbeomi/randomcat/databinding/ItemMainBinding.java
+ github.hongbeomi.randomcat.databinding.ItemMainBinding
+github/hongbeomi/randomcat/BR.java
+ github.hongbeomi.randomcat.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+github/hongbeomi/randomcat/BuildConfig.java
+ github.hongbeomi.randomcat.BuildConfig

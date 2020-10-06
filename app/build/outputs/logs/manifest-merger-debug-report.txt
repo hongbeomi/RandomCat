@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/1889d9d0d78a24a165c4da1ba374514c/databinding-adapters-4.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/342d865cb49339dadb78f9a04e38fd12/databinding-runtime-4.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime-ktx:3.0.0-alpha06] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/be4761013600ce95107b7564f984262c/jetified-paging-runtime-ktx-3.0.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.paging:paging-runtime:3.0.0-alpha06] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/2f55442c101a3dad810ae6496a8d78c5/paging-runtime-3.0.0-alpha06/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/df3a626c1bfe22b143162220199ba828/jetified-core-ktx-1.3.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/8d4e6bf589540be8924fbf1ecaf22a5e/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/8d0b15869396ef8070dca944fbab047a/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/50d2b02367daa2247be04cc5087fcb7e/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6a7bd559ddc2c357c230f28bd4ae0183/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/716ddd6d8adee18f980290431b88f3a1/jetified-koin-android-viewmodel-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android-scope:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/56d933c62e43ea2068894bc11faad5ee/jetified-koin-android-scope-2.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-android:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/bc0d44481d044988cd21a0dc558c2cc3/jetified-koin-android-2.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b4fa5ecb874921ad5251386f3ae29a1d/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b0e6bc765fccfc9fd28a31e40aabf4a7/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4b784b33ec70dd9f278968d806e52687/jetified-PhotoView-2.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/db4da1212b56776875f4eff5cdcf8a74/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/68245ce9302ab4d84f70c2618a38efc1/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/3a7a63f78a78a846f54817bb34073cce/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/1bcc68472bbc0c2a17fd094e0611dde7/jetified-shimmer-0.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/129d8f7dd8f503f97e2d682a43272db8/jetified-viewbinding-4.1.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/d21caaf0c92a60edc15f24adbb7cb0ce/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/c63ffb5b1a5463ae3653fb55bb32755b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/805d6c15497f8e68cba01772507d8158/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4f209ab8f0d737f35d2278e804517218/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/5f568cba87646354afa3e5ccfc329035/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/23d6385af5bd84ba286a09d5831b30da/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9483bb4beb43d63962d7163f1a30971f/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4324416f14120d7ccf0b8c3ffe776d64/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/185e693c90c71222bea195a183604d2b/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha04] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/0898b3eb63872cd06629c3620c589167/recyclerview-1.2.0-alpha04/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/fa9ce04f174f8ef73a708dac722991bf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/7e88f5e0631b1adb45fef38a0bc40607/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/e43b0d7d1e59bbb542ab7ab283c02b8e/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6f192f5780419e88cb243373042b6756/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b84f6f85c372dba1b521eaef046d9250/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/e29b7ac5b6e1a11813af23f82f80057b/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/96625e6f49fb9d8106c7a3c6b8bfe231/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/84a92ec7d557c03bcbbc2560696a44c5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/d76f47538d6e0c497ddafde7f8f8456a/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/33cbcb38b2f1e1581057d335d5973130/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/63c735189c6e13e613c489294d3df6ae/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/a99ffef403bd4aae8a7eca8d59de9c1c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/670bb650b126f332f7e1a96052a0c9ec/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/0b33d29e8d6477a819ae4da60c305d40/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/345f5a9fb8ccc35c99e80680fbd464ec/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6545b44686fe6ef451501cef4fa42153/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/5971ca71d9bc85420f43beceba07236c/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/97ed09635f0a45d12cce7c915762c552/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/947beda1432a8097b4c162a1519d1635/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:8:5-25:19
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/716ddd6d8adee18f980290431b88f3a1/jetified-koin-android-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/716ddd6d8adee18f980290431b88f3a1/jetified-koin-android-viewmodel-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/56d933c62e43ea2068894bc11faad5ee/jetified-koin-android-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-android-scope:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/56d933c62e43ea2068894bc11faad5ee/jetified-koin-android-scope-2.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b4fa5ecb874921ad5251386f3ae29a1d/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b4fa5ecb874921ad5251386f3ae29a1d/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b0e6bc765fccfc9fd28a31e40aabf4a7/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b0e6bc765fccfc9fd28a31e40aabf4a7/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/68245ce9302ab4d84f70c2618a38efc1/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/68245ce9302ab4d84f70c2618a38efc1/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/3a7a63f78a78a846f54817bb34073cce/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/3a7a63f78a78a846f54817bb34073cce/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6f192f5780419e88cb243373042b6756/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6f192f5780419e88cb243373042b6756/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/96625e6f49fb9d8106c7a3c6b8bfe231/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/96625e6f49fb9d8106c7a3c6b8bfe231/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6545b44686fe6ef451501cef4fa42153/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6545b44686fe6ef451501cef4fa42153/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6f192f5780419e88cb243373042b6756/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:16:9-47
+	android:usesCleartextTraffic
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:15:9-37
+activity#github.hongbeomi.randomcat.ui.main.MainActivity
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:17:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:21:27-74
+activity#github.hongbeomi.randomcat.ui.detail.DetailActivity
+ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml:24:19-59
+uses-sdk
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/1889d9d0d78a24a165c4da1ba374514c/databinding-adapters-4.1.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/1889d9d0d78a24a165c4da1ba374514c/databinding-adapters-4.1.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/342d865cb49339dadb78f9a04e38fd12/databinding-runtime-4.1.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/342d865cb49339dadb78f9a04e38fd12/databinding-runtime-4.1.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.paging:paging-runtime-ktx:3.0.0-alpha06] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/be4761013600ce95107b7564f984262c/jetified-paging-runtime-ktx-3.0.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime-ktx:3.0.0-alpha06] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/be4761013600ce95107b7564f984262c/jetified-paging-runtime-ktx-3.0.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.0.0-alpha06] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/2f55442c101a3dad810ae6496a8d78c5/paging-runtime-3.0.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.paging:paging-runtime:3.0.0-alpha06] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/2f55442c101a3dad810ae6496a8d78c5/paging-runtime-3.0.0-alpha06/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/df3a626c1bfe22b143162220199ba828/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/df3a626c1bfe22b143162220199ba828/jetified-core-ktx-1.3.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/8d4e6bf589540be8924fbf1ecaf22a5e/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/8d4e6bf589540be8924fbf1ecaf22a5e/jetified-lifecycle-livedata-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/8d0b15869396ef8070dca944fbab047a/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/8d0b15869396ef8070dca944fbab047a/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/50d2b02367daa2247be04cc5087fcb7e/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/50d2b02367daa2247be04cc5087fcb7e/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6a7bd559ddc2c357c230f28bd4ae0183/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6a7bd559ddc2c357c230f28bd4ae0183/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/716ddd6d8adee18f980290431b88f3a1/jetified-koin-android-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-viewmodel:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/716ddd6d8adee18f980290431b88f3a1/jetified-koin-android-viewmodel-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/56d933c62e43ea2068894bc11faad5ee/jetified-koin-android-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android-scope:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/56d933c62e43ea2068894bc11faad5ee/jetified-koin-android-scope-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/bc0d44481d044988cd21a0dc558c2cc3/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/bc0d44481d044988cd21a0dc558c2cc3/jetified-koin-android-2.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b4fa5ecb874921ad5251386f3ae29a1d/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b4fa5ecb874921ad5251386f3ae29a1d/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b0e6bc765fccfc9fd28a31e40aabf4a7/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b0e6bc765fccfc9fd28a31e40aabf4a7/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4b784b33ec70dd9f278968d806e52687/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4b784b33ec70dd9f278968d806e52687/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/db4da1212b56776875f4eff5cdcf8a74/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/db4da1212b56776875f4eff5cdcf8a74/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/68245ce9302ab4d84f70c2618a38efc1/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/68245ce9302ab4d84f70c2618a38efc1/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/3a7a63f78a78a846f54817bb34073cce/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/3a7a63f78a78a846f54817bb34073cce/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/1bcc68472bbc0c2a17fd094e0611dde7/jetified-shimmer-0.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.5.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/1bcc68472bbc0c2a17fd094e0611dde7/jetified-shimmer-0.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/129d8f7dd8f503f97e2d682a43272db8/jetified-viewbinding-4.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.0-beta01] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/129d8f7dd8f503f97e2d682a43272db8/jetified-viewbinding-4.1.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/d21caaf0c92a60edc15f24adbb7cb0ce/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/d21caaf0c92a60edc15f24adbb7cb0ce/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/c63ffb5b1a5463ae3653fb55bb32755b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/c63ffb5b1a5463ae3653fb55bb32755b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/805d6c15497f8e68cba01772507d8158/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/805d6c15497f8e68cba01772507d8158/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4f209ab8f0d737f35d2278e804517218/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4f209ab8f0d737f35d2278e804517218/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/5f568cba87646354afa3e5ccfc329035/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/5f568cba87646354afa3e5ccfc329035/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/23d6385af5bd84ba286a09d5831b30da/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/23d6385af5bd84ba286a09d5831b30da/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9483bb4beb43d63962d7163f1a30971f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9483bb4beb43d63962d7163f1a30971f/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4324416f14120d7ccf0b8c3ffe776d64/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/4324416f14120d7ccf0b8c3ffe776d64/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/185e693c90c71222bea195a183604d2b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/185e693c90c71222bea195a183604d2b/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha04] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/0898b3eb63872cd06629c3620c589167/recyclerview-1.2.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha04] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/0898b3eb63872cd06629c3620c589167/recyclerview-1.2.0-alpha04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/fa9ce04f174f8ef73a708dac722991bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/fa9ce04f174f8ef73a708dac722991bf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/7e88f5e0631b1adb45fef38a0bc40607/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/7e88f5e0631b1adb45fef38a0bc40607/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/e43b0d7d1e59bbb542ab7ab283c02b8e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/e43b0d7d1e59bbb542ab7ab283c02b8e/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6f192f5780419e88cb243373042b6756/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6f192f5780419e88cb243373042b6756/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b84f6f85c372dba1b521eaef046d9250/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/b84f6f85c372dba1b521eaef046d9250/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/e29b7ac5b6e1a11813af23f82f80057b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/e29b7ac5b6e1a11813af23f82f80057b/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/96625e6f49fb9d8106c7a3c6b8bfe231/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/96625e6f49fb9d8106c7a3c6b8bfe231/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/84a92ec7d557c03bcbbc2560696a44c5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/84a92ec7d557c03bcbbc2560696a44c5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/d76f47538d6e0c497ddafde7f8f8456a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/d76f47538d6e0c497ddafde7f8f8456a/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/33cbcb38b2f1e1581057d335d5973130/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/33cbcb38b2f1e1581057d335d5973130/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/63c735189c6e13e613c489294d3df6ae/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/63c735189c6e13e613c489294d3df6ae/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/a99ffef403bd4aae8a7eca8d59de9c1c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/a99ffef403bd4aae8a7eca8d59de9c1c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/670bb650b126f332f7e1a96052a0c9ec/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/670bb650b126f332f7e1a96052a0c9ec/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/0b33d29e8d6477a819ae4da60c305d40/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/0b33d29e8d6477a819ae4da60c305d40/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/345f5a9fb8ccc35c99e80680fbd464ec/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/345f5a9fb8ccc35c99e80680fbd464ec/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6545b44686fe6ef451501cef4fa42153/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/6545b44686fe6ef451501cef4fa42153/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/5971ca71d9bc85420f43beceba07236c/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/5971ca71d9bc85420f43beceba07236c/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/97ed09635f0a45d12cce7c915762c552/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/97ed09635f0a45d12cce7c915762c552/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/947beda1432a8097b4c162a1519d1635/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/947beda1432a8097b4c162a1519d1635/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anhongbeom/WorkSpace/RandomCat/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/anhongbeom/.gradle/caches/transforms-2/files-2.1/9f9aed902baaff3d0961ac30965baaea/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
